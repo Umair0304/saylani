@@ -1,0 +1,662 @@
+
+.row{
+    width: 100%;
+}
+.First-menu-bar{
+    background-color: #316DC3;
+    text-align: center;
+    display: inline-flex;
+    width: 100%;
+    height: 50px;
+}
+.images{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+span img{
+    height: 23px;
+    width: 30px;
+    margin-left: 15px;
+}
+.Line{
+    margin-left: 122px;
+    margin-top: 13px;
+    color: white;
+    font-size: 13px;
+}
+.buttons{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+@media screen and (max-width:1200px){
+    .First-menu-bar{
+        width: 100%;
+        display: block;
+        height: 160px;
+        padding: 10px;
+    }
+    .images{
+        margin: 0 auto;
+    }
+    .Line{
+        margin: 0 auto;
+        padding: 10px;
+        font-size: 15px;
+    }
+    .buttons{
+        margin: 0 auto;
+        padding: 10px;
+    }
+}
+
+/* Style the navigation bar */
+
+.navbar {
+    width: 100%;
+    background-color:white;
+    overflow: none;
+    flex-wrap: wrap;
+    
+    
+  }
+  .logo{
+      margin: 0px 0px 0px 110px;
+      padding: 0px;
+      width: 20%;
+  }
+  .navbar{
+      width: 100%;
+      background-color: white;
+      flex-wrap: wrap;
+      
+      
+      
+  }
+  
+  .navbar a {
+    
+    float: none;
+    text-align: center;
+    padding: 5px;
+    color:black;
+    text-decoration: none;
+    font-size: 17px;
+    border-radius: 30px;
+    flex-wrap: wrap;
+    
+  }
+  
+      
+
+
+  .rotate{
+      border: none;
+      background-color: royalblue;
+      text-decoration: none;
+      margin: 20px 90px 0px 90px;
+      padding: 5px;
+      
+  }
+  @media screen and (max-width:1200px){
+      .rotate{
+          width: 100%;
+          margin: 0px;
+          margin-top: 10px;
+      }
+  }
+  .news1{
+    
+      color: greenyellow;
+  }
+  .msg1{
+      color: white;
+  }
+  .detail1{
+      color: blue;
+  }
+  .news2{
+    
+    color: greenyellow;
+}
+.msg2{
+    color: white;
+}
+.detail2{
+    color: blue;
+}
+.news3{
+    
+    color: greenyellow;
+}
+.msg3{
+    color: white;
+}
+.detail3{
+    color: blue;
+}
+.news4{
+    
+    color: greenyellow;
+}
+.msg4{
+    color: white;
+}
+.detail4{
+    color: blue;
+}
+.news5{
+    
+    color: greenyellow;
+}
+.msg5{
+    color: white;
+}
+.detail5{
+    color:blue;
+}
+ .news6{
+    
+    color: greenyellow;
+}
+.msg6{
+    color: white;
+}
+.detail6{
+    color:blue;
+}
+.news7{
+    
+    color: greenyellow;
+}
+.msg7{
+    color: white;
+}
+.detail7{
+    color:blue;
+}
+
+.introduction{
+    background-color: white;
+    border: none;
+    text-decoration: none;
+    text-align: center;
+    flex-wrap: wrap;
+    margin: 70px 0px 0px 0px ;
+}
+.intro{
+color: royalblue;
+
+}
+.duction{
+    color: green;
+}
+.description{
+    text-align: justify;
+    line-height: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+.data{
+    
+    width: 1345px;
+    background-color: royalblue;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    flex-wrap: wrap;
+    display: flex;
+    flex: 4;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+.dastarkhan{
+height: 60px; 
+padding: 10px;
+margin: 40px 0px 0px 120px ;
+flex-wrap: wrap;
+}
+.adoption{
+height: 60px;
+padding: 10px;
+margin: 40px 0px 0px 100px ;
+flex-wrap: wrap;
+}
+.medical{
+    height: 60px;
+    padding: 10px;
+    margin: 40px 0px 0px 70px ;
+    flex-wrap: wrap;
+}
+.education{
+height: 60px;
+padding:10px ;
+margin: 40px 0px 0px 70px ;
+flex-wrap: wrap;
+}
+.spon{
+color:white;
+display: inline-block;
+margin: 0px 0px 40px 20px ;
+letter-spacing: 0em;
+font-size: 20pt;
+flex-wrap: wrap;
+}
+.family{
+    color:white;
+    display: inline-block;
+    margin: 0px 0px 40px 30px ;
+    letter-spacing: 0em;
+    font-size: 20pt;
+    flex-wrap: wrap;
+}
+.medicine{
+    color:white;
+    display: inline-block;
+    margin: 0px 0px 40px 60px ;
+    letter-spacing: 0em;
+    font-size: 20pt;
+    flex-wrap: wrap;
+}
+.educate{
+    color:white;
+    display: inline-block;
+    margin: 0px 0px 40px 50px ;
+    letter-spacing: 0em;
+    font-size: 20pt;
+    flex-wrap: wrap;
+}
+.food{
+
+    color: white;
+    display: inline-block;
+    margin:0px 0px 0px 80px ;
+    flex-wrap: wrap;
+}
+.adp{
+
+    color: white;
+    display: inline-block;
+    margin:0px 0px 0px 80px ;
+    flex-wrap: wrap;
+}
+.med{
+
+    color: white;
+    display: inline-block;
+    margin:0px 0px 0px 40px ;
+    flex-wrap: wrap;
+}
+.edu{
+
+    color: white;
+    display: inline-block;
+    margin:0px 0px 0px 35px ;
+    flex-wrap: wrap;
+}
+.khana{
+color:lawngreen;
+}
+.adopter{
+    color:lawngreen;
+}
+.medicare{
+    color:lawngreen;
+}
+.prhai{
+    color:lawngreen;
+}
+
+.work{
+    background-color: white;
+    text-align: center;
+    border: none;
+    
+    text-decoration: none;
+    line-height: 1.9;
+    flex-wrap: wrap;
+}
+
+.what{
+color: royalblue;
+
+
+}
+.are{
+color:green
+}
+.services{
+    display: flex;
+    flex:3;
+    background-color:#fcfcfb;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.onlinesadqah{
+color: royalblue;
+text-align: center;
+
+   -moz-box-shadow: 0 0 10px #777777;
+    -webkit-box-shadow: 0 0 10px #777777;
+    box-shadow: 0 0 10px #777777;
+    padding: 30px;
+width: 350px;
+height: 180px;
+margin: 30px 0px 0px 20px ;
+background-color: white;
+flex-wrap: wrap;
+
+}
+.welfare{
+    color: royalblue;
+    text-align: center;
+    -moz-box-shadow: 0 0 10px #777777;
+    -webkit-box-shadow: 0 0 10px #777777;
+    box-shadow: 0 0 10px #777777;
+    padding: 30px;
+     width: 350px;
+     height: 180px;
+     margin: 30px 0px 0px 30px ;
+     background-color: white;
+     flex-wrap: wrap;
+     } 
+
+.pharma{
+    color: royalblue;
+    text-align: center;
+    -moz-box-shadow: 0 0 10px #777777;
+-webkit-box-shadow: 0 0 10px #777777;
+box-shadow: 0 0 10px #777777;  
+padding: 30px;
+width: 350px;
+height: 180px;
+margin: 30px 0px 0px 30px ;
+background-color: white;
+flex-wrap: wrap;
+}
+.secondblock{
+    display: flex;
+    background-color:#fcfcfb;
+    margin-top: 30px;
+    margin-bottom: 130px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.roti{
+    padding: 30px;
+    color: royalblue;
+    text-align: center;
+
+    -moz-box-shadow: 0 0 10px #777777;
+        -webkit-box-shadow: 0 0 10px #777777;
+        box-shadow: 0 0 10px #777777;
+    width: 350px;
+    height: 180px;
+    margin: 30px 0px 0px 25px ;
+    background-color: white;
+
+    
+    flex-wrap: wrap;
+}
+.plant{
+    color: royalblue;
+    text-align: center;
+    padding: 30px;
+    -moz-box-shadow: 0 0 10px #777777;
+    -webkit-box-shadow: 0 0 10px #777777;
+    box-shadow: 0 0 10px #777777;
+    flex-wrap: wrap;
+     width: 350px;
+     height: 180px;
+     margin: 30px 0px 0px 30px ;
+     background-color: white;
+}
+.study{
+    color: royalblue;
+    text-align: center;
+    padding: 30px;
+    -moz-box-shadow: 0 0 10px #777777;
+-webkit-box-shadow: 0 0 10px #777777;
+box-shadow: 0 0 10px #777777;  
+flex-wrap: wrap;
+width: 350px;
+height: 180px;
+margin: 30px 0px 0px 30px ;
+background-color: white;
+}
+/* .fiveproject{
+
+text-align: center;
+margin-top: 150px;
+height: 130px;
+
+
+}
+.imagegallary{
+    text-align: center;
+
+} */
+.image-gallery{
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 150px;
+}
+.pic{
+color:royalblue;
+}
+.gal{
+color: green;
+}
+.ending{
+  display: flex;
+  margin:100px 0px 0px 115px;
+  flex-wrap: wrap;
+  
+    
+}
+.s{
+  display: flex;
+    flex-wrap: wrap;
+    
+    margin: 0px 0px 200px 0px ;
+} 
+
+
+
+
+  .navbar a:hover {
+    background-color: royalblue;
+  }
+  
+  
+  
+.active {
+    background-color:royalblue;
+  }
+  
+
+  @media only screen and (max-width: 1200px) {
+    .navbar a,body{
+        width: 100%;
+      display: block;
+      
+    }
+  }
+  
+ @media  only screen and (max-width:1200px){
+    .pics,body{
+         display: block;
+         width: 100%;
+        
+     }
+ }
+ @media  only screen and (max-width:1200px){
+    .introduction,body{
+         display: block;
+         width: 100%;
+     }
+ }
+ @media  only screen and (max-width:1200px){
+    .data,body{
+         display: block;
+         width: 100%;
+        
+     }
+ }
+ @media  only screen and (max-width:1200px){
+    .services,body{
+         display:ruby-base-container;
+         width: 100%;
+         
+     }
+ }
+ @media  only screen and (max-width:1200px){
+    .secproject,.fourproject,body{
+         display:block;
+         width: 100%;
+         
+     }
+ }
+ @media  only screen and (max-width:1200px){
+    .thirdproject,body{
+         display:ruby-base-container;
+         width: 100%;
+               
+     }
+ }
+@media only screen and(max-width:1200px){
+    .ending{
+         display:block;
+         width: 100%;
+    }
+}
+ 
+.Future-Projects{
+    color: #3F51B5;
+    margin-left: 70px;
+    margin-bottom: 30px;
+}
+.Projects{
+    background-color: #f7f8fa;
+    width: 355px;
+    height: 70px;
+    margin-left: 80px;
+    margin-bottom: 20px;
+    padding: 15px;
+    color: royalblue;
+}
+.facilities{
+    margin-left: 30px;
+    font-size: 18px;
+    font-weight:bold;
+    padding: 5px;
+    
+}
+.area{
+    color: blue;
+}
+.Events{
+    width: 300px;
+    height: 170px;
+    margin-top: -100px;
+    margin-left: 70px;
+    background-color: #f7f8fa;
+}
+.saylanievent{
+    width: 250px;
+    height: 180px;
+}
+.Upcoming-Events{
+    margin-top: -50px;
+    color: #3F51B5;
+}
+@media screen and (max-width:1200px){
+        .Events{
+            margin-top: 50px;
+        }
+}
+ 
+/* .connect-numbers{
+    margin-top: 170px;
+    width: 100%;
+    height: 350px;
+}
+.useful-links{
+    color: white;
+    padding: 70px;
+    font-size: 18px;
+    margin-top: -270px;
+    text-align: center;
+    
+}
+.connect-with-us{
+    color: white;
+    margin-left: 100px;
+    font-size: 18px;
+}
+.head{
+    color:#bbb;
+    margin: 80px 0px 0px 160px;
+}
+.pak{
+    color:#bbb;
+    margin: 10px 0px 0px 160px;
+}
+.uan{
+    color:#bbb;
+    margin: 15px 0px 0px 170px;
+}
+.number{
+    color:#bbb;
+    margin: -15px 0px 0px 350px;
+}
+.cell{
+    color:#bbb;
+    margin: 10px 0px 0px 170px;
+}
+.usa{
+    color:#bbb;
+    margin: 10px 0px 0px 170px;
+}
+.uk{
+    color:#bbb;
+    margin: 10px 0px 0px 170px;
+}
+.infor{
+    color:#bbb;
+    margin: 10px 0px 0px 170px;
+}
+.phone{
+    margin: -300px 0px 0px 150px ;
+}
+.copyright{
+    height: 39px;
+    width: 102.5%;
+    background-color: royalblue;
+}
+.abc{
+    color: white;
+    margin: 0px 0px 0px 154px ;
+    padding: 10px ;
+    font-size: 10px;
+} */
+.contact-information{
+    background-color: #777777;
+    color: white;
+    width: 100%;
+    height: 400px;
+}
+div ul{
+    list-style: none;
+    margin-top: 80px;
+    margin-left: 50px;
+}
+.useful-links{
+    margin-top: 0px;
+    margin-right: 50px;
+}
+.connect-with-us{
+    margin-left: 40px;
+}
+div h5{
+    margin-top: 50px;
+}
